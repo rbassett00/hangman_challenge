@@ -1,4 +1,4 @@
-# Hangman Challenge
+# Hangman 
 Hangman challenge for BYU student programer position, this took me about 2 hours to complete 
 
 ## Description
