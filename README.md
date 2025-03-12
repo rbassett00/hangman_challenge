@@ -1,5 +1,5 @@
 # Hangman Challenge
-Hangman challenge for BYU student programer position, this took me about 2 hours to complete \
+Hangman challenge for BYU student programer position, this took me about 2 hours to complete 
 
 ## Description
 * The program conists of 2 main while loops and some helper functions, and a word.txt file
